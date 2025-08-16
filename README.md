@@ -29,7 +29,7 @@ This is both a concurrency exercise and a foundation for studying **throughput, 
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Adjustable **number of cooks and waiters** to test scalability.
 - Randomized **preparation times** to simulate real kitchen workloads.
